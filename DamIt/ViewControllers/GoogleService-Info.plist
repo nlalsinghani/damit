@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>819080647382-qc5q9cc4mc30q9d86shct438mp7oa9ev.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.819080647382-qc5q9cc4mc30q9d86shct438mp7oa9ev</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwom-R-vzWFT3CxNoZN1DmNGn43f-uHyw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>819080647382</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saipurush.DamIt</string>
+	<key>PROJECT_ID</key>
+	<string>damit-b7e90</string>
+	<key>STORAGE_BUCKET</key>
+	<string>damit-b7e90.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:819080647382:ios:0885371fd857978a612f77</string>
+	<key>DATABASE_URL</key>
+	<string>https://damit-b7e90.firebaseio.com</string>
+</dict>
+</plist>
